@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: faac2bd22b40047351845524de1c72213669a24fee868884fe13b16858ed2340
+-- hash: 5e0d197eb8f9e82f332427a1c2b10111c775d5280b190aa426f365efe25736ef
 
 name:           pixura-contracts
 version:        0.3.0.0
@@ -36,9 +36,12 @@ library
       Pixura.Contracts.EthOracle
       Pixura.Contracts.IERC721CreatorRoyalty
       Pixura.Contracts.IMarketplaceSettings
+      Pixura.Contracts.KnownOriginDigitalAsset
+      Pixura.Contracts.MakersplaceV2
       Pixura.Contracts.Medianizer
       Pixura.Contracts.PixuraNFT
       Pixura.Contracts.PixuraNFTContractGenerator
+      Pixura.Contracts.Rarible
       Pixura.Contracts.SuperRare
       Pixura.Contracts.SuperRareAuctionHouse
       Pixura.Contracts.SuperRareLegacy
